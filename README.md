@@ -2,9 +2,9 @@
  
 Поэтому в этом vault-е будут рассматриваться:
 
-- [Лекции + Практика от Садыкова](https://sadykov.notion.site/1-bb9630269fa14ce4b21f5b10339af168)
+- [Лекции + Практика от Садыкова](https://sadykov.notion.site/1-bb9630269fa14ce4b21f5b10339af168) ([pt.2](https://sadykov.notion.site/2-92c6671d53bd47ceafdb839629269827))
 - [Сети для самых маленьких](https://linkmeup.gitbook.io/sdsm/)
-- [Лабораторные задачи PNETLab CCNP/CCNA](https://user.pnetlab.com/store/labs/](https://user.pnetlab.com/store/labs/view)
+- [Лабораторные задачи PNETLab CCNP/CCNA](https://user.pnetlab.com/store/labs/view)
 
 Оформлять постараюсь в "правильном" Markdown, дабы гитхаб смог нормально проглотить то, что я пишу.
 
